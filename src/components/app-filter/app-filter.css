@@ -1,0 +1,21 @@
+.btn-group {
+  margin-top: 20px;
+}
+
+.btn{
+  border: none;
+  transition: 0.5s all;
+  background-color: #3d5a80;
+  border: 1px solid #fff;
+  color: #fff;
+}
+
+.btn-light{
+  color: #3d5a80;
+  background-color: #ffffff;
+}
+
+.btn:hover{
+  background-color: #4682B4;
+  color: #fff;
+}
